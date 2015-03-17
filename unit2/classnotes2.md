@@ -14,8 +14,23 @@
 -.Get remote URL to host Repo
 -Locally: run “git remote add <github clone URL>”
 5.Fetch remote
--call: “git push -u origin master”
+
+* testing
+* test2
+	* testing again
+		* and again
 
 
+1. test
+2. test2
 
+#test
+##test
+###test
 
+    some code
+
+----
+and this
+and this
+*****
